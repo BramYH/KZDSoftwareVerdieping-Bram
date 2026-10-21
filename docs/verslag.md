@@ -165,24 +165,75 @@ Aan het einde wil ik deze drie dingen hebben geleerd:
 - hoe ik complexe animaties kan opbouwen en beheersen met timelines  
 
 #### 1. een of meerdere elementen kunnen animeren
-Aan het einde wil ik één of meerdere elementen kunnen animeren, zoals knoppen, achtergrondselementen en modals. Ik wil minimaal drie elementen kunnen animeren, de animatie kunnen laten herhalen en ervoor zorgen dat elementen kunnen reageren op gebruikersinvoer. Dit moet ik doen in een praktische applicatie en het moet gebruiksvriendelijk zijn voor de gebruiker. Dit doel helpt mij bij het leren van de basis, zodat ik dit later altijd kan gebruiken en niet slechts één keer en daarna nooit meer.
+ik één of meerdere elementen kunnen animeren, zoals knoppen, achtergrondselementen en modals. Ik wil minimaal drie elementen kunnen animeren, de animatie kunnen laten herhalen en ervoor zorgen dat elementen kunnen reageren op gebruikersinvoer. Dit moet ik doen in een praktische applicatie en het moet gebruiksvriendelijk zijn voor de gebruiker. Dit doel helpt mij bij het leren van de basis, zodat ik dit later altijd kan gebruiken en niet slechts één keer en daarna nooit meer. ik dit in week 46 tussen 11 en 13 November mee bezig.
 
 #### 2. hoe ik met scrollen kan animeren
-Ik wil met GSAP de website kunnen laten reageren op het scrollgedrag van de gebruiker, zodat animaties kunnen worden geactiveerd en afgespeeld wanneer elementen zichtbaar worden in de viewport. Hiervoor wil ik, met behulp van de documentatie en andere bronnen, twee animaties maken die reageren op zichtbaarheid in de viewport. Dit helpt mij om een essentieel onderdeel van GSAP te leren en mijn kennis op dit gebied uit te breiden. Dit doel is haalbaar omdat het een basisonderdeel van GSAP is en niet bijzonder complex is. Ik wil dit leren in week 47, samen met leerdoel 1.
+Ik wil met GSAP de website kunnen laten reageren op het scrollgedrag van de gebruiker, zodat animaties kunnen worden geactiveerd en afgespeeld wanneer elementen zichtbaar worden in de viewport. Hiervoor wil ik, met behulp van de documentatie en andere bronnen, twee animaties maken die reageren op zichtbaarheid in de viewport. Dit helpt mij om een essentieel onderdeel van GSAP te leren en mijn kennis op dit gebied uit te breiden. Dit doel is haalbaar omdat het een basisonderdeel van GSAP is en niet bijzonder complex is. Ik wil dit leren in week 47 tussen 18 en 20 November.
 
 #### 3. hoe ik complexe animaties kan opbouwen en beheersen met timelines 
-Ik wil met GSAP een timeline kunnen maken om een reeks animaties aan elkaar te koppelen en zo één complexe en langere animatie te creëren. Ik wil, samen met het begrip van doel 1, mijn kennis van timelines verder uitbreiden, zodat ik dit ook effectief kan toepassen. Samen met de eerste doelen kan ik dit met relatief weinig moeite leren. Ik hoop dit direct na de eerste twee doelen te leren, in week 48.
+Ik wil met GSAP-timelines complexe animaties kunnen opbouwen en beheersen, waarbij ik meerdere animaties combineer en de timing en volgorde nauwkeurig afstem om vloeiende overgangen te creëren. Hiervoor wil ik, met behulp van de documentatie en andere bronnen, minstens één interactieve webanimatie ontwikkelen waarin verschillende elementen samen of na elkaar bewegen. Dit helpt mij om mijn kennis van GSAP-timelines uit te breiden en te leren hoe ik meerdere animaties op een samenhangende en gebruiksvriendelijke manier kan combineren. Dit doel is haalbaar omdat ik hiermee voortbouw op mijn eerdere kennis van GSAP en stap voor stap complexere animaties leer maken. Ik wil dit doel tegen het einde van mijn project bereiken. Ik wil dit leren in week 48 tussen 25 en 27 November
+
 
 ### Prototype voorstel
 
-Een duidelijk, uitgebreid prototypevoorstel wat past bij de gestelde leerdoelen.
+Een duidelijk, uitgebreid prototypevoorstel dat past bij de gestelde leerdoelen.
+
+Ideën:
+Portfolio?
+Informatief?
+Showcase?
+
+**PORTFOLIO**
+Ik weet niet wat het meest passend zou zijn om het te leren. Een portfolio zou mij helpen met mezelf naar voren te brengen, maar kan veel tijd nemen. 
+
+**INFORMATIEF**
+Voor de informatieve website zou mij leren om de website levend te laten voelen, maar ik kan beter het statisch om een betere leeservaring. Het beste wat ik ervan kan maken, is een interactieve website met veel animaties die reageren op de user.
+
+**SHOWCASE**
+Een showcase zou inhouden dat ik mijn skills over het kuezedeel laat zien. Maar hoe doe ik dat? Ik moet er dan vanuit gaan dat ik genoeg testprojecten (klein of groot) heb om te laten zien. Maar dit kan ook beter bij een portfolio.
+
+**BLIJVEN VRAGEN**
+
+Showcase zou niet werken in zijn eentje, dus die combineer ik met portfolio. Informatief is een beetje groot en uitgerbreid hoe zou ik dit kunnen verkleinen? 
+
+Wat voor informatie wil ik laten zien? wil ik alleen één ding laten zien of wil ik meerdere dingen? is het primair alleen text of zijn er ook foto's? Hoe wil ik deze informatie laten zien? 
+
+Maar wil ik een portfolio maken. Hoe zou het in mijn voordeel zij? Zou het te veel kunnen zijn voor mij om te maken? 
+
+De project voor het kuezedeel kan niet te persoonlijk zijn of moet het? moet het resultaat alleen persoonlijk een stap verder brengen of ook in mijn educatie. Zowiezo brengt het me een stap verder want dan heb ik alle drie benodigde keuzedelen gemaakt. En of ik een portfolio of een informatieve website maak het beide leren mijn hoe ik GSAP kan gebruiken. 
+
+Moet ik een website hebben waar de animaties voorop staan of wat meer in de achtergrond? 
+
+Een portfolio website is al informatief en ik heb nog geen portfolio dus ik kan deze kans te nemen terwijl ik leer om een portfolio te maken en ernaa te verberten als nodig. 
+
+### mijn idee voor een portfolio website 
+
+het grootte idee: Een portfolio website heeft het doel om mij als persoon te laten zien aan de arbeidsmarkt en de wereld. Dit moet laten zien wat mijn skills zijn en actergrond. 
+
+Maar wat wil ik laten zien? Ik kijk en speel veel media dust het zou mij luek lijken om dat bij mijn portfolio kunnen toevoegen.
+
+hero/top van de site: bovenaan wil ik insiratie nemen van mijn eerste stuk media "Project moon" speciefiek "limbus company" en zijn UI. Ik wil een mechanische gevoel een uitterlijk geven aan de UI en stijfe animaties gebruiken die dat meegeven.
+
+als je de website opent stel ik mij voor dat een mechanische arm een scherm binnen in het midden of de zijkant van van het scherm. Hierop komen dan willekeurig letters te verschijnen die constant veranderen tot dat ze komen te stoppen op mijn naam. Ik denk dat ik wel de foto eruit laat niet omdat ik mijn gezicht niet wil laten zien meer om niet van de gebruikers ervaring weg te nemen.
+
+eronder als ik projecten wil laten zien wat ik mezelf voorstel zijn kaarten die de gebruiken kan rond dragen met een arm dat die kaart omhoog houd. als de kaart verplaatst wordt gaat de arm weg en komt het terug op de plek waar de kaart is om het omhoog te houden. 
+
+voor verder in de website wil ik een tijdlijn waarbij je horizontaal kan scrollen om de volledige tijdlijn te kunnen zien. 
+
+om mijn skills te laten zien wil ik deze laten binnen zweven of bewegen via een arm terwijl je scrollt. 
+
+bij de footer wil ik een herhalende animatie die enige laatste dingen laat zien en ook een interactive contact section of pagina
+
+voor de navbar wil ik dat het vanuit buiten het scherm komt mechanische of niet het moet een lueke animatie en niet statisch zijn. ik kan het laten verschijnen met een hover luisteraar aan de bovekant van de pagina.
+
+
 
 ### Planning
 
 Maak een planning met een uitgewerkte tijdslijn van de te volgen stappen om je leerdoelen te behalen. Neem hierin ook de tijd op die je nodig hebt om je prototype te maken.
 
 ### Logboek
-
+ 
 Houd een logboek bij van de tijd die je besteedt aan het maken van je prototype. Noteer hierin ook de stappen die je hebt gezet om je leerdoelen te behalen.
 
 ## Prototype
@@ -191,7 +242,7 @@ Leg uit wat je prototype is en hoe je dit hebt gemaakt. Voeg ook een link naar j
 
 ## Eindconclusie
 
-Leerdoelen behaald? Wat heb je geleerd? Wat zou je een volgende keer anders doen? Wat zijn je vervolgstappen?
+Leerdoelen behaald? Wat heb je geleerd? Wat zou je een volgende keer anders doen? Wat zijn je vervolgstappen? 
 
 <div style="page-break-after: always;"></div>
 
