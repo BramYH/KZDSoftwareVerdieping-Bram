@@ -121,16 +121,13 @@ animate(boxes, { rotate: 360 })
 | **Ecosysteem** | Goede documentatie en een gemeenschap, maar kleiner dan die van grotere animatielibraries [^7] [^4]  |   GSAP heeft een groot gebruikersbestand en wordt door veel bedrijven gebruikt. De library heeft ook veel maandelijkse downloads [^4]. Daarnaast is er buiten de officiële website veel informatie te vinden [^2] [^3] [^6]. | Het is een bekende library met uitgebreide documentatie voor JavaScript, React en Vue. Ook wordt de library door bekende bedrijven gebruikt [^8] [^5]. |
 
 ### Keuze
-
 Uit de drie JavaScript-libraries kies ik voor GSAP.
 
 ### Arbeidsmarkt
-
-Op de arbeidsmarkt is er veel vraag naar front-enddevelopers die een front-endframework zoals React, Vue en/of Svelte beheersen. GSAP is een vaardigheid die ik in combinatie met een van deze frameworks kan inzetten. Dit kan mij helpen om mezelf op de arbeidsmarkt te bewijzen en mijn kennis van JavaScript en later ook React verder te ontwikkelen.
+Voor front-endfuncties waarbij interactieve animaties op websites worden gemaakt, is GSAP een goeie aanvulling op JavaScript en een framework zoals React. De library wordt door verschillende bekende bedrijven gebruikt [^6], dus ervaring met GSAP kan aansluiten bij technieken die in professionele projecten worden ingezet. Door GSAP met React te combineren, kan ik laten zien dat ik niet alleen een framework beheers, maar ook complexe en vloeiende animaties kan bouwen. Zo kan ik mijn front-endvaardigheden verder ontwikkelen en mij met deze specifieke combinatie onderscheiden op de arbeidsmarkt.
 
 ### Onderbouwing onderzoek en keuze
-
-Ik kies uiteindelijk voor GSAP, omdat het veel flexibiliteit doordat het de optie geeft om zelf animatie delen geeft. Ook omdat het veel wordt gebruikt, is er naast de documentatie ook veel informatie beschikbaar. De mogelijkheid om GSAP met verschillende front-endframeworks, zoals Svelte en React, te gebruiken, maakt het een populaire keuze voor veel bedrijven [^6]. Dankzij de eenvoudige en uitgebreide 'Install Helper' is het bovendien makkelijk om een nieuw project te starten [^6].
+Ik kies uiteindelijk voor GSAP, omdat het veel flexibiliteit heeft. Ook omdat het veel wordt gebruikt, is er naast de documentatie ook veel informatie beschikbaar. De mogelijkheid om GSAP met verschillende front-endframeworks, zoals Svelte en React, te gebruiken, maakt het een populaire keuze voor veel bedrijven [^6]. Dankzij de eenvoudige en uitgebreide 'Install Helper' is het bovendien makkelijk om een nieuw project te starten [^6].
 
 ---
 
