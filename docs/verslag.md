@@ -173,7 +173,7 @@ Ik wil met GSAP-timelines complexe animaties kunnen opbouwen en beheersen, waarb
 
 ### Prototype voorstel
 
-Een duidelijk, uitgebreid prototypevoorstel dat past bij de gestelde leerdoelen.
+In het stuk hieronder brainstorm ik wat ik wil maken en hoe mijn denk process verloopt.
 
 Ideën:
 Portfolio?
@@ -190,7 +190,6 @@ Voor de informatieve website zou mij leren om de website levend te laten voelen,
 Een showcase zou inhouden dat ik mijn skills over het kuezedeel laat zien. Maar hoe doe ik dat? Ik moet er dan vanuit gaan dat ik genoeg testprojecten (klein of groot) heb om te laten zien. Maar dit kan ook beter bij een portfolio.
 
 **BLIJVEN VRAGEN**
-
 Showcase zou niet werken in zijn eentje, dus die combineer ik met portfolio. Informatief is een beetje groot en uitgerbreid hoe zou ik dit kunnen verkleinen? 
 
 Wat voor informatie wil ik laten zien? wil ik alleen één ding laten zien of wil ik meerdere dingen? is het primair alleen text of zijn er ook foto's? Hoe wil ik deze informatie laten zien? 
@@ -203,34 +202,47 @@ Moet ik een website hebben waar de animaties voorop staan of wat meer in de acht
 
 Een portfolio website is al informatief en ik heb nog geen portfolio dus ik kan deze kans te nemen terwijl ik leer om een portfolio te maken en ernaa te verberten als nodig. 
 
-### mijn idee voor een portfolio website 
+### Mijn idee voor een portfoliowebsite
 
-het grootte idee: Een portfolio website heeft het doel om mij als persoon te laten zien aan de arbeidsmarkt en de wereld. Dit moet laten zien wat mijn skills zijn en actergrond. 
+Ik kijk en speel graag verschillende soorten media. Het lijkt me leuk om die interesse terug te laten komen in mijn portfolio, zonder dat de website daardoor de aandacht afleidt van mijn werk. Daarom wil ik een portfolio maken met een mechanische uitstraling en animaties die passen bij die stijl.
 
-Maar wat wil ik laten zien? Ik kijk en speel veel media dust het zou mij luek lijken om dat bij mijn portfolio kunnen toevoegen.
+#### Visuele stijl
 
-hero/top van de site: bovenaan wil ik insiratie nemen van mijn eerste stuk media "Project moon" speciefiek "limbus company" en zijn UI. Ik wil een mechanische gevoel een uitterlijk geven aan de UI en stijfe animaties gebruiken die dat meegeven.
+Voor de vormgeving wil ik me laten inspireren door Project Moon, en specifiek door de interface van *Limbus Company*. Ik wil een mechanisch uiterlijk combineren met strakke, stevige animaties. Zo krijgt de website een herkenbare stijl die aansluit bij mijn inspiratiebron.
 
-als je de website opent stel ik mij voor dat een mechanische arm een scherm binnen in het midden of de zijkant van van het scherm. Hierop komen dan willekeurig letters te verschijnen die constant veranderen tot dat ze komen te stoppen op mijn naam. Ik denk dat ik wel de foto eruit laat niet omdat ik mijn gezicht niet wil laten zien meer om niet van de gebruikers ervaring weg te nemen.
+#### Onderdelen van de website
 
-eronder als ik projecten wil laten zien wat ik mezelf voorstel zijn kaarten die de gebruiken kan rond dragen met een arm dat die kaart omhoog houd. als de kaart verplaatst wordt gaat de arm weg en komt het terug op de plek waar de kaart is om het omhoog te houden. 
+- **Introductie:** Wanneer iemand de website opent, verschijnt er een mechanische arm met een scherm in het midden of aan de zijkant. Op het scherm veranderen willekeurige letters totdat mijn naam verschijnt. Ik wil geen foto van mezelf toevoegen, zodat het niet op zijn plaats uitziet.
 
-voor verder in de website wil ik een tijdlijn waarbij je horizontaal kan scrollen om de volledige tijdlijn te kunnen zien. 
+- **Navigatie:** De navigatiebalk moet niet statisch zijn. Ik wil dat de navbar van boven of de zijkant van het scherm komt met een robotische beweging. Dit wil ik activeren met een knopje of door de gebruiker met zijn muis over een bepaald veld te zweven.
 
-om mijn skills te laten zien wil ik deze laten binnen zweven of bewegen via een arm terwijl je scrollt. 
+- **Tijdlijn:** Verderop wil ik een tijdlijn opnemen die bezoekers horizontaal kunnen scrollen om de volledige tijdlijn te bekijken. hier wil ik mijn ervaringen over school en het werk dat ik doe of heb gedaan. 
 
-bij de footer wil ik een herhalende animatie die enige laatste dingen laat zien en ook een interactive contact section of pagina
+- **Vaardigheden:** Ik wil mijn vaardigheden willen laten zien met een herhalende animatie. Deze animatie is een carrousel die ik kan wijzigen zodat ik later terwijl ik meer skills leer ik het kan uitbreiden.
 
-voor de navbar wil ik dat het vanuit buiten het scherm komt mechanische of niet het moet een lueke animatie en niet statisch zijn. ik kan het laten verschijnen met een hover luisteraar aan de bovekant van de pagina.
+- **Projecten:** Mijn projecten wil ik presenteren als kaarten die door een mechanische arm worden vastgehouden. Wanneer een bezoeker een kaart verplaatst, beweegt de arm mee en houdt die de kaart op de nieuwe plek vast.
 
-
+- **Contact en afsluiting:** Onderaan de website wil ik een herhalende animatie gebruiken om de pagina af te sluiten. Ook wil ik daar een interactieve contactsectie of contactpagina aanbieden.
 
 ### Planning
 
-Maak een planning met een uitgewerkte tijdslijn van de te volgen stappen om je leerdoelen te behalen. Neem hierin ook de tijd op die je nodig hebt om je prototype te maken.
+| Wanneer | Leerdoel/fase | Wat ik wil doen | Resultaat en controle |
+| :-------: | :---------: | :-----------: | :-----: |
+| Woensdag 11 t/m 12 november (week 46) | Leerdoel 1: basisanimaties | Ik creëer een project en bestudeer de GSAP-documentatie om de basis te leren, zoals `gsap.to()` en andere functies uit de documentatie. | Het project start en minimaal één element beweegt met GSAP. |
+| Vrijdag 13 november | Het ontwerpen van mijn portfolio | Ik ga een start maken met het ontwerp van mijn portfolio. | Ik heb een lay-out voor de homepage voor desktop en mobiel. |
+| Woensdag 18 t/m donderdag 19 november (week 47) | Leerdoel 2: scrollanimaties | Ik ga de documentatie van GSAP over scrollanimaties bestuderen en een keuze maken hoeveel elementen ik hiermee wil animeren. | Er zijn ten minste twee elementen die met scrollanimaties bewegen. |
+| Vrijdag 20 november (week 47) | Het verder ontwerpen van mijn portfolio | Ik ga verder met het ontwerpen van mijn portfolio, zodat ik een beeld heb van wat ik wil maken. | Ik heb de lay-out gebruikt om een concreet ontwerp in Figma te maken. |
+| Woensdag 25 november (week 48) | Mijn portfolio-ontwerp afmaken | Ik ga verder met het ontwerp om het af te krijgen, zodat ik het kan maken. | Het ontwerp is af voor zowel mobiel als desktop. |
+| Donderdag 26 t/m vrijdag 27 november (week 48) | Leerdoel 3: tijdlijnen | Ik wil met één onderdeel meerdere elementen kunnen animeren, of hetzelfde element in een sequentie, zodat ik één lange animatie kan maken. | Er staat een eerste tijdlijn waarin meerdere elementen na elkaar of tegelijk bewegen. |
+| 2 december (week 49) | Het ontwerp afmaken | Ik wil mijn ontwerp af hebben, zodat ik aan de portfolio zelf kan werken. | Een volledig ontwerp met een mobiele versie. |
+| 3 t/m 4 december (week 49) | Werken aan de hero | Ik wil de hero voor mijn portfoliowebsite maken. | De hero is af. |
+| 9 t/m 11 december (week 50) | De tijdlijn maken | Ik wil een duidelijke tijdlijn maken waarin ik mijn groei door de jaren heen laat zien. | Een eerste versie van de tijdlijn. |
+| 16 december (week 51) | Vaardigheden | Ik wil mijn vaardigheden laten zien, zoals ik in het leerdoel heb beschreven. | Mijn vaardigheden zijn af. |
+| 17 t/m 19 december (week 51) | Projectenoverzicht | Ik wil het projectenoverzicht van mijn portfolio maken, zoals ik in het voorstel heb beschreven. | Het projectenoverzicht is af en ik lig op schema om het na de vakantie op tijd af te krijgen. |
+| 6 t/m 9 januari (week 1) | Mijn portfolio afmaken | Ik wil de contactsectie maken en mijn portfolio afronden. | De contactsectie en de volledige portfoliowebsite zijn af. |
 
 ### Logboek
- 
+
 Houd een logboek bij van de tijd die je besteedt aan het maken van je prototype. Noteer hierin ook de stappen die je hebt gezet om je leerdoelen te behalen.
 
 ## Prototype
