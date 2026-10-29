@@ -173,34 +173,11 @@ Ik wil met GSAP-timelines complexe animaties kunnen opbouwen en beheersen, waarb
 
 ### Prototype voorstel
 
-In het stuk hieronder brainstorm ik wat ik wil maken en hoe mijn denk process verloopt.
+Een duidelijk, uitgebreid prototypevoorstel dat past bij de gestelde leerdoelen.
 
-Ideën:
-Portfolio?
-Informatief?
-Showcase?
+Voor mijn prototype maak ik een interactieve portfoliowebsite met GSAP. Een portfolio is een goede manier om mijn werk en vaardigheden te presenteren. Ik kan tijdens het maken van de portfolio goed leren hoe ik GSAP kan gebruiken. Ik kies dan voor UI geïnspireerd op de uiterlijk van *Limbus Company* , *Elden ring* en andere media. De animaties moeten bij deze stijl passen, maar mogen de inhoud en het gebruiksgemak van de website niet in de weg zitten.
 
-**PORTFOLIO**
-Ik weet niet wat het meest passend zou zijn om het te leren. Een portfolio zou mij helpen met mezelf naar voren te brengen, maar kan veel tijd nemen. 
-
-**INFORMATIEF**
-Voor de informatieve website zou mij leren om de website levend te laten voelen, maar ik kan beter het statisch om een betere leeservaring. Het beste wat ik ervan kan maken, is een interactieve website met veel animaties die reageren op de user.
-
-**SHOWCASE**
-Een showcase zou inhouden dat ik mijn skills over het kuezedeel laat zien. Maar hoe doe ik dat? Ik moet er dan vanuit gaan dat ik genoeg testprojecten (klein of groot) heb om te laten zien. Maar dit kan ook beter bij een portfolio.
-
-**BLIJVEN VRAGEN**
-Showcase zou niet werken in zijn eentje, dus die combineer ik met portfolio. Informatief is een beetje groot en uitgerbreid hoe zou ik dit kunnen verkleinen? 
-
-Wat voor informatie wil ik laten zien? wil ik alleen één ding laten zien of wil ik meerdere dingen? is het primair alleen text of zijn er ook foto's? Hoe wil ik deze informatie laten zien? 
-
-Maar wil ik een portfolio maken. Hoe zou het in mijn voordeel zij? Zou het te veel kunnen zijn voor mij om te maken? 
-
-De project voor het kuezedeel kan niet te persoonlijk zijn of moet het? moet het resultaat alleen persoonlijk een stap verder brengen of ook in mijn educatie. Zowiezo brengt het me een stap verder want dan heb ik alle drie benodigde keuzedelen gemaakt. En of ik een portfolio of een informatieve website maak het beide leren mijn hoe ik GSAP kan gebruiken. 
-
-Moet ik een website hebben waar de animaties voorop staan of wat meer in de achtergrond? 
-
-Een portfolio website is al informatief en ik heb nog geen portfolio dus ik kan deze kans te nemen terwijl ik leer om een portfolio te maken en ernaa te verberten als nodig. 
+Met dit prototype werk ik aan mijn drie leerdoelen. Eerst gebruik ik basisanimaties om onder andere de introductie en navigatie te laten bewegen. Ik oefen met het animeren van meerdere elementen, herhalende animaties en reacties op invoer van de gebruiker. Daarna voeg ik scrollanimaties toe, zodat minimaal twee onderdelen bewegen wanneer ze in beeld komen. Tot slot gebruik ik een GSAP-timeline om verschillende elementen in de introductie of bij de projecten achter elkaar of tegelijk te animeren. Zo oefen ik met de volgorde en timing van animaties en breng ik mijn leerdoelen samen in één website. Het prototype bestaat uit een introductie, navigatie, tijdlijn, vaardigheden, projecten en een contactsectie. Ik maak eerst een ontwerp voor desktop en mobiel. 
 
 ### Mijn idee voor een portfoliowebsite
 
@@ -242,7 +219,7 @@ Voor de vormgeving wil ik me laten inspireren door Project Moon, en specifiek do
 | 6 t/m 9 januari (week 1) | Mijn portfolio afmaken | Ik wil de contactsectie maken en mijn portfolio afronden. | De contactsectie en de volledige portfoliowebsite zijn af. |
 
 ### Logboek
-
+ 
 Houd een logboek bij van de tijd die je besteedt aan het maken van je prototype. Noteer hierin ook de stappen die je hebt gezet om je leerdoelen te behalen.
 
 ## Prototype
